@@ -31,3 +31,10 @@
 - Total Sales, Sales by Region, and Sales by Product.
 - Inventory stock levels, products requiring reordering, and supplier performance.
 - Monthly/Quarterly trends in sales and stock.
+
+## Next Steps
+### I:
+
+- Calculate key metrics for sales and inventory.
+- Visualize trends and distributions using charts.
+- Provide actionable insights and conclusions.
