@@ -151,7 +151,6 @@
   ![image](https://github.com/user-attachments/assets/2607221c-39ef-4acd-bfa4-a0c4aab982ba)
 
 ## Insights from the Analysis
-1. Sales Analysis
  ### Regional Performance:
 
 - The South region is the top-performing region, generating the highest total sales of approximately $4.67 million.
