@@ -150,7 +150,18 @@
 
   ![image](https://github.com/user-attachments/assets/2607221c-39ef-4acd-bfa4-a0c4aab982ba)
 
+## Insights from the Analysis
+1. Sales Analysis
+ ### Regional Performance:
 
+- The South region is the top-performing region, generating the highest total sales of approximately $4.67 million.
+- The West region has the lowest sales performance with $1.51 million.
+
+### Monthly Sales Trends:
+
+- Sales peaked significantly in February 2023 and showed a drop in the following months.
+- There are noticeable fluctuations in sales, suggesting possible seasonal trends or promotional impacts.
+- Hat and Shoes are the best commudity being sold more than others
 
 
 
