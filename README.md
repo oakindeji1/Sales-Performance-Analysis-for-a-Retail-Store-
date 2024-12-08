@@ -22,6 +22,15 @@
 - Analyze sales trends over time:
 - Monthly or quarterly sales revenue trends.
 - Top-performing regions and products.
+        Top 3 Products Sold	
+        Product Categories	Quantity Sold
+              Gloves	          27.27%
+                Hat	            36.36%
+              Shoes	            36.36%
+          Grand Total	          100.00%
+![image](https://github.com/user-attachments/assets/0e9f0e2f-aef2-44bd-badc-9c56dc3e09c3)
+
+  
 - Average order size (quantity and revenue per order).
 - Identify best customers based on total purchases.
 - Use metrics such as Total Sales (Quantity × UnitPrice) and order frequency.
@@ -38,3 +47,21 @@
 - Calculate key metrics for sales and inventory.
 - Visualize trends and distributions using charts.
 - Provide actionable insights and conclusions.
+
+
+  ![image](https://github.com/user-attachments/assets/52a275ec-7f50-4703-95d7-dbe6e3ca2103)
+
+  ![image](https://github.com/user-attachments/assets/3f5ab8ea-75a3-4c1a-a912-e336bc891b8e)
+
+
+  ![image](https://github.com/user-attachments/assets/81c8ba90-9878-4376-ac50-bbbfb390375d)
+
+  ![image](https://github.com/user-attachments/assets/cca20a4c-5e56-43b4-ae5b-9486b467780c)
+
+
+  ![image](https://github.com/user-attachments/assets/2607221c-39ef-4acd-bfa4-a0c4aab982ba)
+
+
+
+
+
