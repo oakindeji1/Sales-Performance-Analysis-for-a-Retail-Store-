@@ -109,7 +109,6 @@
 ![image](https://github.com/user-attachments/assets/dd6a0709-69f6-4822-8d98-38f751163976)
 
 
-- Identify best customers based on total purchases.
 - Use metrics such as Total Sales (Quantity × UnitPrice) and order frequency.
         ### Product Categories	Quantity Sold
                   Gloves	            7500
