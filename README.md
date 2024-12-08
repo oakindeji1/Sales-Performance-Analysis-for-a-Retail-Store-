@@ -4,7 +4,7 @@
   
 -The Excel file contains the following sheets:
 
-- SalesData - Likely contains sales-related information.
+- SalesData - Contains sales-related information.
 
 ## Data Overview
 ### SalesData
